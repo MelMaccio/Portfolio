@@ -15,14 +15,19 @@ function Footer() {
       <div className="footer-sns">
         <div className="design-by">Design By Melina Maccio</div>
         <div className="sns-links">
-          <a href="https://twitter.com" target="_blank" rel="noreferrer">
-            <i className="fab fa-twitter twitter"></i>
+          <a
+            href="https://github.com/MelMaccio"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <i className="fa-brands fa-square-github"></i>
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+          <a
+            href="https://www.linkedin.com/in/melina-maccio/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="fab fa-linkedin linkedin"></i>
-          </a>
-          <a href="https://facebook.com" target="_blank" rel="noreferrer">
-            <i className="fab fa-facebook facebook"></i>
           </a>
         </div>
       </div>
